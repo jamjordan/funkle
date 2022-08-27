@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/funkle/static/css/main.36406bb9.css",
+    "main.js": "/funkle/static/js/main.585203c4.js",
+    "static/js/787.ea110391.chunk.js": "/funkle/static/js/787.ea110391.chunk.js",
+    "index.html": "/funkle/index.html",
+    "main.36406bb9.css.map": "/funkle/static/css/main.36406bb9.css.map",
+    "main.585203c4.js.map": "/funkle/static/js/main.585203c4.js.map",
+    "787.ea110391.chunk.js.map": "/funkle/static/js/787.ea110391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36406bb9.css",
+    "static/js/main.585203c4.js"
+  ]
+}
