@@ -1,0 +1,2743 @@
+[
+    {
+      "Player": "A. Brayshaw",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 181,
+      "MinScore": 78,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "A. Cerra",
+      "Team": "Car",
+      "Owners": 2,
+      "MaxScore": 119,
+      "MinScore": 42,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 1
+    },
+    {
+      "Player": "A. Gaff",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 109,
+      "MinScore": 47,
+      "Benched": 2,
+      "Games": 13,
+      "Finals": 0
+    },
+    {
+      "Player": "A. Hall",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 125,
+      "MinScore": 12,
+      "Benched": 1,
+      "Games": 9,
+      "Finals": 1
+    },
+    {
+      "Player": "A. McGrath",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 108,
+      "MinScore": 48,
+      "Benched": 5,
+      "Games": 16,
+      "Finals": 2
+    },
+    {
+      "Player": "A. Naughton",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 81,
+      "MinScore": 62,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "A. Neal-Bullen",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 84,
+      "MinScore": 36,
+      "Benched": 1,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "A. Perkins",
+      "Team": "Ess",
+      "Owners": 2,
+      "MaxScore": 70,
+      "MinScore": 61,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "A. Saad",
+      "Team": "Car",
+      "Owners": 3,
+      "MaxScore": 116,
+      "MinScore": 50,
+      "Benched": 2,
+      "Games": 12,
+      "Finals": 2
+    },
+    {
+      "Player": "A. Treloar",
+      "Team": "WB",
+      "Owners": 2,
+      "MaxScore": 134,
+      "MinScore": 73,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "A. Witherden",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 117,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 11,
+      "Finals": 0
+    },
+    {
+      "Player": "Ang. Brayshaw",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 156,
+      "MinScore": 67,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Acres",
+      "Team": "Fre",
+      "Owners": 2,
+      "MaxScore": 113,
+      "MinScore": 55,
+      "Benched": 0,
+      "Games": 11,
+      "Finals": 2
+    },
+    {
+      "Player": "B. Ainsworth",
+      "Team": "GC",
+      "Owners": 3,
+      "MaxScore": 110,
+      "MinScore": 43,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 1
+    },
+    {
+      "Player": "B. Close",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 67,
+      "MinScore": 60,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Crouch",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 147,
+      "MinScore": 79,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Cunnington",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 62,
+      "MinScore": 62,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 1
+    },
+    {
+      "Player": "B. Dale",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 126,
+      "MinScore": 57,
+      "Benched": 2,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Ellis",
+      "Team": "GC",
+      "Owners": 2,
+      "MaxScore": 130,
+      "MinScore": 53,
+      "Benched": 10,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "B. Fiorini",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 118,
+      "MinScore": 16,
+      "Benched": 6,
+      "Games": 13,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Grundy",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 124,
+      "MinScore": 54,
+      "Benched": 0,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Hardwick",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 83,
+      "MinScore": 59,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 1
+    },
+    {
+      "Player": "B. Hill",
+      "Team": "StK",
+      "Owners": 2,
+      "MaxScore": 127,
+      "MinScore": 29,
+      "Benched": 2,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Keays",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 134,
+      "MinScore": 49,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "B. Maynard",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 88,
+      "MinScore": 36,
+      "Benched": 5,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "B. McEvoy",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 105,
+      "MinScore": 56,
+      "Benched": 1,
+      "Games": 4,
+      "Finals": 2
+    },
+    {
+      "Player": "B. Parfitt",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 69,
+      "MinScore": 65,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Preuss",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 108,
+      "MinScore": 60,
+      "Benched": 3,
+      "Games": 9,
+      "Finals": 1
+    },
+    {
+      "Player": "B. Scott",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 78,
+      "MinScore": 57,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "B. Smith",
+      "Team": "Adel",
+      "Owners": 3,
+      "MaxScore": 141,
+      "MinScore": 33,
+      "Benched": 6,
+      "Games": 11,
+      "Finals": 2
+    },
+    {
+      "Player": "B. Williams",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 38,
+      "MinScore": 38,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "Ba. Smith",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 154,
+      "MinScore": 65,
+      "Benched": 0,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Coleman-Jones",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 78,
+      "MinScore": 55,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Curnow",
+      "Team": "Car",
+      "Owners": 2,
+      "MaxScore": 77,
+      "MinScore": 46,
+      "Benched": 2,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Daniel",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 123,
+      "MinScore": 52,
+      "Benched": 0,
+      "Games": 14,
+      "Finals": 1
+    },
+    {
+      "Player": "C. Dixon",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 37,
+      "MinScore": 37,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Guthrie",
+      "Team": "Geel",
+      "Owners": 2,
+      "MaxScore": 126,
+      "MinScore": 40,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Mills",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 162,
+      "MinScore": 54,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Nash",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 61,
+      "MinScore": 49,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Oliver",
+      "Team": "Melb",
+      "Owners": 2,
+      "MaxScore": 151,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Petracca",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 142,
+      "MinScore": 40,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Rayner",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 51,
+      "MinScore": 43,
+      "Benched": 0,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Rozee",
+      "Team": "Port",
+      "Owners": 3,
+      "MaxScore": 125,
+      "MinScore": 21,
+      "Benched": 3,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Salem",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 104,
+      "MinScore": 3,
+      "Benched": 3,
+      "Games": 8,
+      "Finals": 1
+    },
+    {
+      "Player": "C. Serong",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 126,
+      "MinScore": 60,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Taylor",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 56,
+      "MinScore": 51,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Ward",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 115,
+      "MinScore": 6,
+      "Benched": 9,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "C. Warner",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 127,
+      "MinScore": 59,
+      "Benched": 1,
+      "Games": 15,
+      "Finals": 2
+    },
+    {
+      "Player": "C. West",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 64,
+      "MinScore": 34,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "C. Wingard",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 70,
+      "MinScore": 21,
+      "Benched": 3,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Byrne-Jones",
+      "Team": "Port",
+      "Owners": 4,
+      "MaxScore": 107,
+      "MinScore": 50,
+      "Benched": 2,
+      "Games": 13,
+      "Finals": 1
+    },
+    {
+      "Player": "D. Cameron",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 115,
+      "MinScore": 34,
+      "Benched": 3,
+      "Games": 13,
+      "Finals": 2
+    },
+    {
+      "Player": "D. Fort",
+      "Team": "Bris",
+      "Owners": 2,
+      "MaxScore": 91,
+      "MinScore": 35,
+      "Benched": 1,
+      "Games": 5,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Hannebery",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 91,
+      "MinScore": 31,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 1
+    },
+    {
+      "Player": "D. Heppell",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 117,
+      "MinScore": 53,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "D. Houston",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 150,
+      "MinScore": 46,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Martin",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 93,
+      "MinScore": 64,
+      "Benched": 0,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "D. McStay",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 9,
+      "MinScore": 9,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Mundy",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 102,
+      "MinScore": 55,
+      "Benched": 2,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Parish",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 146,
+      "MinScore": 80,
+      "Benched": 0,
+      "Games": 13,
+      "Finals": 1
+    },
+    {
+      "Player": "D. Prestia",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 114,
+      "MinScore": 17,
+      "Benched": 1,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Rich",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 114,
+      "MinScore": 32,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 1
+    },
+    {
+      "Player": "D. Rioli",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 108,
+      "MinScore": 56,
+      "Benched": 1,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "D. Shiel",
+      "Team": "Ess",
+      "Owners": 3,
+      "MaxScore": 104,
+      "MinScore": 51,
+      "Benched": 7,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Swallow",
+      "Team": "GC",
+      "Owners": 2,
+      "MaxScore": 131,
+      "MinScore": 43,
+      "Benched": 7,
+      "Games": 11,
+      "Finals": 2
+    },
+    {
+      "Player": "D. Tucker",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 51,
+      "MinScore": 51,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "D. Zorko",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 145,
+      "MinScore": 6,
+      "Benched": 3,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "Dy. Moore",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 138,
+      "MinScore": 56,
+      "Benched": 1,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "E. Gulden",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 155,
+      "MinScore": 54,
+      "Benched": 6,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "E. Langdon",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 140,
+      "MinScore": 27,
+      "Benched": 4,
+      "Games": 16,
+      "Finals": 1
+    },
+    {
+      "Player": "E. Richards",
+      "Team": "WB",
+      "Owners": 2,
+      "MaxScore": 90,
+      "MinScore": 57,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 1
+    },
+    {
+      "Player": "E. Yeo",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 80,
+      "MinScore": 18,
+      "Benched": 2,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "G. Clark",
+      "Team": "WCE",
+      "Owners": 2,
+      "MaxScore": 62,
+      "MinScore": 61,
+      "Benched": 2,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "G. Hewett",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 119,
+      "MinScore": 83,
+      "Benched": 0,
+      "Games": 13,
+      "Finals": 0
+    },
+    {
+      "Player": "G. Miers",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 70,
+      "MinScore": 70,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "H. Chapman",
+      "Team": "Fre",
+      "Owners": 2,
+      "MaxScore": 67,
+      "MinScore": 48,
+      "Benched": 3,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "H. Clark",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 81,
+      "MinScore": 53,
+      "Benched": 5,
+      "Games": 5,
+      "Finals": 1
+    },
+    {
+      "Player": "H. Greenwood",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 120,
+      "MinScore": 57,
+      "Benched": 5,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "H. Himmelberg",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 117,
+      "MinScore": 66,
+      "Benched": 0,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "H. McCluggage",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 142,
+      "MinScore": 62,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "H. McKay",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 49,
+      "MinScore": 49,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "H. Morrison",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 108,
+      "MinScore": 59,
+      "Benched": 7,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "H. Perryman",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 132,
+      "MinScore": 73,
+      "Benched": 1,
+      "Games": 14,
+      "Finals": 2
+    },
+    {
+      "Player": "H. Young",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 132,
+      "MinScore": 58,
+      "Benched": 3,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "I. Cumming",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 123,
+      "MinScore": 60,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "I. Heeney",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 121,
+      "MinScore": 51,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "I. Smith",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 121,
+      "MinScore": 63,
+      "Benched": 3,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Aish",
+      "Team": "Fre",
+      "Owners": 4,
+      "MaxScore": 119,
+      "MinScore": 41,
+      "Benched": 6,
+      "Games": 10,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Anderson",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 149,
+      "MinScore": 35,
+      "Benched": 1,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Battle",
+      "Team": "StK",
+      "Owners": 2,
+      "MaxScore": 107,
+      "MinScore": 34,
+      "Benched": 5,
+      "Games": 13,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Berry",
+      "Team": "Bris",
+      "Owners": 2,
+      "MaxScore": 105,
+      "MinScore": 60,
+      "Benched": 2,
+      "Games": 5,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Billings",
+      "Team": "StK",
+      "Owners": 2,
+      "MaxScore": 98,
+      "MinScore": 0,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Bowey",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 78,
+      "MinScore": 78,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Caldwell",
+      "Team": "Ess",
+      "Owners": 3,
+      "MaxScore": 103,
+      "MinScore": 56,
+      "Benched": 5,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Cameron",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 146,
+      "MinScore": 33,
+      "Benched": 10,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Ceglar",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 44,
+      "MinScore": 44,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Clark",
+      "Team": "Fre",
+      "Owners": 2,
+      "MaxScore": 103,
+      "MinScore": 49,
+      "Benched": 2,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Cripps",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 84,
+      "MinScore": 52,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Crisp",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 130,
+      "MinScore": 51,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Culley",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 36,
+      "MinScore": 36,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Daicos",
+      "Team": "Coll",
+      "Owners": 2,
+      "MaxScore": 104,
+      "MinScore": 33,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Daniher",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 94,
+      "MinScore": 15,
+      "Benched": 1,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Dawson",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 129,
+      "MinScore": 75,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Dunkley",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 139,
+      "MinScore": 62,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Elliott",
+      "Team": "Coll",
+      "Owners": 4,
+      "MaxScore": 78,
+      "MinScore": 59,
+      "Benched": 4,
+      "Games": 5,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Finlayson",
+      "Team": "Port",
+      "Owners": 3,
+      "MaxScore": 92,
+      "MinScore": 56,
+      "Benched": 3,
+      "Games": 4,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Graham",
+      "Team": "Rich",
+      "Owners": 2,
+      "MaxScore": 117,
+      "MinScore": 45,
+      "Benched": 10,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Gresham",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 119,
+      "MinScore": 42,
+      "Benched": 1,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Gunston",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 67,
+      "MinScore": 38,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Harmes",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 100,
+      "MinScore": 45,
+      "Benched": 3,
+      "Games": 11,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Hately",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 112,
+      "MinScore": 39,
+      "Benched": 2,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Hayes",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 70,
+      "MinScore": 18,
+      "Benched": 2,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Higgins",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 52,
+      "MinScore": 39,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Hopper",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 56,
+      "MinScore": 43,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Horne-Francis",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 94,
+      "MinScore": 52,
+      "Benched": 8,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Howe",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 96,
+      "MinScore": 42,
+      "Benched": 2,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Impey",
+      "Team": "Haw",
+      "Owners": 3,
+      "MaxScore": 75,
+      "MinScore": 15,
+      "Benched": 2,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Jordon",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 91,
+      "MinScore": 56,
+      "Benched": 3,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Kelly",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 134,
+      "MinScore": 57,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Lloyd",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 141,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Lukosius",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 65,
+      "MinScore": 65,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Lyons",
+      "Team": "Bris",
+      "Owners": 2,
+      "MaxScore": 129,
+      "MinScore": 42,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Macrae",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 130,
+      "MinScore": 72,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "J. McInerney",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 107,
+      "MinScore": 43,
+      "Benched": 5,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Newcombe",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 118,
+      "MinScore": 63,
+      "Benched": 7,
+      "Games": 15,
+      "Finals": 2
+    },
+    {
+      "Player": "J. OMeara",
+      "Team": "Haw",
+      "Owners": 3,
+      "MaxScore": 111,
+      "MinScore": 49,
+      "Benched": 3,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Rachele",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 53,
+      "MinScore": 53,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Redden",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 124,
+      "MinScore": 47,
+      "Benched": 6,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Ridley",
+      "Team": "Ess",
+      "Owners": 3,
+      "MaxScore": 94,
+      "MinScore": 59,
+      "Benched": 3,
+      "Games": 8,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Rowbottom",
+      "Team": "Syd",
+      "Owners": 2,
+      "MaxScore": 129,
+      "MinScore": 53,
+      "Benched": 4,
+      "Games": 5,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Scrimshaw",
+      "Team": "Haw",
+      "Owners": 3,
+      "MaxScore": 95,
+      "MinScore": 8,
+      "Benched": 2,
+      "Games": 7,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Selwood",
+      "Team": "Geel",
+      "Owners": 4,
+      "MaxScore": 106,
+      "MinScore": 46,
+      "Benched": 3,
+      "Games": 5,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Short",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 131,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Sicily",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 118,
+      "MinScore": 67,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Silvagni",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 77,
+      "MinScore": 64,
+      "Benched": 0,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Simpkin",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 126,
+      "MinScore": 52,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Sinclair",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 146,
+      "MinScore": 72,
+      "Benched": 1,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Steele",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 154,
+      "MinScore": 65,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Stephenson",
+      "Team": "NM",
+      "Owners": 3,
+      "MaxScore": 122,
+      "MinScore": 34,
+      "Benched": 5,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Stringer",
+      "Team": "Ess",
+      "Owners": 3,
+      "MaxScore": 74,
+      "MinScore": 47,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 1
+    },
+    {
+      "Player": "J. Sweet",
+      "Team": "WB",
+      "Owners": 2,
+      "MaxScore": 79,
+      "MinScore": 37,
+      "Benched": 1,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Viney",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 127,
+      "MinScore": 70,
+      "Benched": 2,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Ward",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 97,
+      "MinScore": 60,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Witts",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 122,
+      "MinScore": 64,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "J. Worpel",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 36,
+      "MinScore": 36,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "J. Ziebell",
+      "Team": "NM",
+      "Owners": 3,
+      "MaxScore": 127,
+      "MinScore": 33,
+      "Benched": 8,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "J. de Goey",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 107,
+      "MinScore": 37,
+      "Benched": 1,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "JP. Kennedy",
+      "Team": "Syd",
+      "Owners": 2,
+      "MaxScore": 74,
+      "MinScore": 45,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "K. Amon",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 148,
+      "MinScore": 57,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "K. Coleman",
+      "Team": "Bris",
+      "Owners": 2,
+      "MaxScore": 105,
+      "MinScore": 54,
+      "Benched": 6,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "K. Lambert",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 88,
+      "MinScore": 32,
+      "Benched": 1,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "K. Strachan",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 41,
+      "MinScore": 41,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Ash",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 74,
+      "MinScore": 37,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Baker",
+      "Team": "Rich",
+      "Owners": 2,
+      "MaxScore": 92,
+      "MinScore": 49,
+      "Benched": 2,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Davies-Uniacke",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 145,
+      "MinScore": 14,
+      "Benched": 1,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Duggan",
+      "Team": "WCE",
+      "Owners": 3,
+      "MaxScore": 98,
+      "MinScore": 48,
+      "Benched": 1,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Dunstan",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 65,
+      "MinScore": 65,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Franklin",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 83,
+      "MinScore": 45,
+      "Benched": 0,
+      "Games": 2,
+      "Finals": 1
+    },
+    {
+      "Player": "L. Hunter",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 112,
+      "MinScore": 50,
+      "Benched": 3,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Jackson",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 125,
+      "MinScore": 41,
+      "Benched": 1,
+      "Games": 16,
+      "Finals": 1
+    },
+    {
+      "Player": "L. McDonald",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 108,
+      "MinScore": 44,
+      "Benched": 8,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Neale",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 145,
+      "MinScore": 67,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Parker",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 123,
+      "MinScore": 42,
+      "Benched": 1,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "L. Schultz",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 35,
+      "MinScore": 35,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Shuey",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 103,
+      "MinScore": 65,
+      "Benched": 5,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Weller",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 121,
+      "MinScore": 58,
+      "Benched": 2,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "L. Whitfield",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 121,
+      "MinScore": 40,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 2
+    },
+    {
+      "Player": "Lu. Ryan",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 137,
+      "MinScore": 45,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Blicavs",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 135,
+      "MinScore": 71,
+      "Benched": 1,
+      "Games": 12,
+      "Finals": 2
+    },
+    {
+      "Player": "M. Bontempelli",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 140,
+      "MinScore": 73,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Crouch",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 104,
+      "MinScore": 66,
+      "Benched": 0,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Duncan",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 138,
+      "MinScore": 62,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Flynn",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 106,
+      "MinScore": 44,
+      "Benched": 1,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Gawn",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 149,
+      "MinScore": 67,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Holmes",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 81,
+      "MinScore": 81,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 1
+    },
+    {
+      "Player": "M. Kennedy",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 122,
+      "MinScore": 59,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "M. King",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 66,
+      "MinScore": 55,
+      "Benched": 1,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Lewis",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 80,
+      "MinScore": 80,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Lynch",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 55,
+      "MinScore": 55,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "M. McGovern",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 54,
+      "MinScore": 54,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Redman",
+      "Team": "Ess",
+      "Owners": 2,
+      "MaxScore": 143,
+      "MinScore": 42,
+      "Benched": 0,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Rowell",
+      "Team": "GC",
+      "Owners": 2,
+      "MaxScore": 117,
+      "MinScore": 46,
+      "Benched": 8,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Walters",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 26,
+      "MinScore": 26,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "M. Wood",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 79,
+      "MinScore": 79,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 1
+    },
+    {
+      "Player": "N. Anderson",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 141,
+      "MinScore": 55,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "N. Blakey",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 53,
+      "Benched": 2,
+      "Games": 15,
+      "Finals": 2
+    },
+    {
+      "Player": "N. Broad",
+      "Team": "Rich",
+      "Owners": 2,
+      "MaxScore": 108,
+      "MinScore": 27,
+      "Benched": 6,
+      "Games": 11,
+      "Finals": 0
+    },
+    {
+      "Player": "N. Daicos",
+      "Team": "Coll",
+      "Owners": 2,
+      "MaxScore": 147,
+      "MinScore": 52,
+      "Benched": 4,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "N. Fyfe",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 89,
+      "MinScore": 30,
+      "Benched": 4,
+      "Games": 5,
+      "Finals": 0
+    },
+    {
+      "Player": "N. Haynes",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 34,
+      "MinScore": 34,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "N. Hind",
+      "Team": "Ess",
+      "Owners": 2,
+      "MaxScore": 101,
+      "MinScore": 45,
+      "Benched": 1,
+      "Games": 11,
+      "Finals": 1
+    },
+    {
+      "Player": "N. Martin",
+      "Team": "Ess",
+      "Owners": 2,
+      "MaxScore": 113,
+      "MinScore": 48,
+      "Benched": 5,
+      "Games": 16,
+      "Finals": 1
+    },
+    {
+      "Player": "N. Naitanui",
+      "Team": "WCE",
+      "Owners": 3,
+      "MaxScore": 95,
+      "MinScore": 48,
+      "Benched": 2,
+      "Games": 3,
+      "Finals": 1
+    },
+    {
+      "Player": "N. Newman",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 102,
+      "MinScore": 19,
+      "Benched": 1,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "N. Vlastuin",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 119,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "O. McInerney",
+      "Team": "Bris",
+      "Owners": 1,
+      "MaxScore": 116,
+      "MinScore": 53,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "O. Wines",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 128,
+      "MinScore": 36,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Cripps",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 139,
+      "MinScore": 36,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "P. Dangerfield",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 108,
+      "MinScore": 33,
+      "Benched": 2,
+      "Games": 13,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Ladhams",
+      "Team": "Syd",
+      "Owners": 2,
+      "MaxScore": 112,
+      "MinScore": 22,
+      "Benched": 2,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Lipinski",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 127,
+      "MinScore": 50,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Naish",
+      "Team": "WCE",
+      "Owners": 3,
+      "MaxScore": 94,
+      "MinScore": 12,
+      "Benched": 1,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Ryder",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 80,
+      "MinScore": 60,
+      "Benched": 0,
+      "Games": 2,
+      "Finals": 0
+    },
+    {
+      "Player": "P. Wright",
+      "Team": "Ess",
+      "Owners": 3,
+      "MaxScore": 77,
+      "MinScore": 43,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "R. Bonner",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 107,
+      "MinScore": 27,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "R. Burton",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 111,
+      "MinScore": 58,
+      "Benched": 2,
+      "Games": 16,
+      "Finals": 2
+    },
+    {
+      "Player": "R. Fox",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 72,
+      "MinScore": 72,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "R. Laird",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 163,
+      "MinScore": 90,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "R. Marshall",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 163,
+      "MinScore": 47,
+      "Benched": 7,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "R. OBrien",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 159,
+      "MinScore": 56,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 2
+    },
+    {
+      "Player": "R. Sloane",
+      "Team": "Adel",
+      "Owners": 2,
+      "MaxScore": 80,
+      "MinScore": 40,
+      "Benched": 2,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "R. Stanley",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 99,
+      "MinScore": 28,
+      "Benched": 1,
+      "Games": 10,
+      "Finals": 1
+    },
+    {
+      "Player": "S. Berry",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 124,
+      "MinScore": 57,
+      "Benched": 1,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Bolton",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 136,
+      "MinScore": 37,
+      "Benched": 8,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "S. Coniglio",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 129,
+      "MinScore": 49,
+      "Benched": 1,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "S. Darcy",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 126,
+      "MinScore": 45,
+      "Benched": 1,
+      "Games": 15,
+      "Finals": 1
+    },
+    {
+      "Player": "S. Docherty",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 138,
+      "MinScore": 71,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Hayes",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 77,
+      "MinScore": 34,
+      "Benched": 7,
+      "Games": 7,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Higgins",
+      "Team": "Geel",
+      "Owners": 3,
+      "MaxScore": 86,
+      "MinScore": 70,
+      "Benched": 0,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Hurn",
+      "Team": "WCE",
+      "Owners": 2,
+      "MaxScore": 119,
+      "MinScore": 62,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 2
+    },
+    {
+      "Player": "S. Lycett",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 42,
+      "Benched": 0,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Martin",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 35,
+      "MinScore": 35,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "S. May",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 48,
+      "Benched": 0,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Menegola",
+      "Team": "Geel",
+      "Owners": 2,
+      "MaxScore": 77,
+      "MinScore": 4,
+      "Benched": 2,
+      "Games": 5,
+      "Finals": 1
+    },
+    {
+      "Player": "S. Pendlebury",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 130,
+      "MinScore": 56,
+      "Benched": 0,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Powell-Pepper",
+      "Team": "Port",
+      "Owners": 2,
+      "MaxScore": 109,
+      "MinScore": 30,
+      "Benched": 5,
+      "Games": 16,
+      "Finals": 1
+    },
+    {
+      "Player": "S. Reid",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 56,
+      "MinScore": 56,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 1
+    },
+    {
+      "Player": "S. Ross",
+      "Team": "StK",
+      "Owners": 3,
+      "MaxScore": 127,
+      "MinScore": 50,
+      "Benched": 0,
+      "Games": 14,
+      "Finals": 2
+    },
+    {
+      "Player": "S. Sidebottom",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 51,
+      "Benched": 6,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "S. Walsh",
+      "Team": "Car",
+      "Owners": 2,
+      "MaxScore": 128,
+      "MinScore": 79,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 2
+    },
+    {
+      "Player": "T. Adams",
+      "Team": "Coll",
+      "Owners": 1,
+      "MaxScore": 113,
+      "MinScore": 44,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Atkins",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 108,
+      "MinScore": 61,
+      "Benched": 0,
+      "Games": 6,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Barrass",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 90,
+      "MinScore": 78,
+      "Benched": 2,
+      "Games": 2,
+      "Finals": 2
+    },
+    {
+      "Player": "T. Boak",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 152,
+      "MinScore": 38,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "T. Bruhn",
+      "Team": "GWS",
+      "Owners": 2,
+      "MaxScore": 78,
+      "MinScore": 37,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Cotchin",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 98,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Cutler",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 68,
+      "MinScore": 68,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "T. De Koning",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 64,
+      "MinScore": 64,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "T. English",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 138,
+      "MinScore": 58,
+      "Benched": 0,
+      "Games": 12,
+      "Finals": 2
+    },
+    {
+      "Player": "T. Goldstein",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 108,
+      "MinScore": 40,
+      "Benched": 7,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Green",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 133,
+      "MinScore": 43,
+      "Benched": 1,
+      "Games": 16,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Greene",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 89,
+      "MinScore": 33,
+      "Benched": 3,
+      "Games": 12,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Hawkins",
+      "Team": "Geel",
+      "Owners": 3,
+      "MaxScore": 117,
+      "MinScore": 31,
+      "Benched": 5,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Hickey",
+      "Team": "Syd",
+      "Owners": 3,
+      "MaxScore": 98,
+      "MinScore": 44,
+      "Benched": 1,
+      "Games": 8,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Kelly",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 132,
+      "MinScore": 17,
+      "Benched": 1,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Liberatore",
+      "Team": "WB",
+      "Owners": 1,
+      "MaxScore": 128,
+      "MinScore": 63,
+      "Benched": 4,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "T. McDonald",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 48,
+      "MinScore": 48,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Membrey",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 76,
+      "MinScore": 76,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Miller",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 147,
+      "MinScore": 68,
+      "Benched": 0,
+      "Games": 18,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Mitchell",
+      "Team": "Haw",
+      "Owners": 1,
+      "MaxScore": 120,
+      "MinScore": 51,
+      "Benched": 0,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Nankervis",
+      "Team": "Rich",
+      "Owners": 1,
+      "MaxScore": 118,
+      "MinScore": 44,
+      "Benched": 1,
+      "Games": 17,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Papley",
+      "Team": "Syd",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 77,
+      "Benched": 0,
+      "Games": 4,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Powell",
+      "Team": "NM",
+      "Owners": 3,
+      "MaxScore": 76,
+      "MinScore": 40,
+      "Benched": 2,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Sparrow",
+      "Team": "Melb",
+      "Owners": 1,
+      "MaxScore": 82,
+      "MinScore": 52,
+      "Benched": 0,
+      "Games": 3,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Stengle",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 45,
+      "MinScore": 45,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Stewart",
+      "Team": "Geel",
+      "Owners": 2,
+      "MaxScore": 169,
+      "MinScore": 46,
+      "Benched": 0,
+      "Games": 13,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Taranto",
+      "Team": "GWS",
+      "Owners": 1,
+      "MaxScore": 128,
+      "MinScore": 56,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Thomas",
+      "Team": "NM",
+      "Owners": 1,
+      "MaxScore": 90,
+      "MinScore": 17,
+      "Benched": 5,
+      "Games": 9,
+      "Finals": 0
+    },
+    {
+      "Player": "T. Walker",
+      "Team": "Adel",
+      "Owners": 1,
+      "MaxScore": 103,
+      "MinScore": 27,
+      "Benched": 8,
+      "Games": 13,
+      "Finals": 1
+    },
+    {
+      "Player": "T. Xerri",
+      "Team": "NM",
+      "Owners": 2,
+      "MaxScore": 92,
+      "MinScore": 32,
+      "Benched": 5,
+      "Games": 10,
+      "Finals": 0
+    },
+    {
+      "Player": "TJ. Lynch",
+      "Team": "Rich",
+      "Owners": 2,
+      "MaxScore": 127,
+      "MinScore": 42,
+      "Benched": 1,
+      "Games": 4,
+      "Finals": 1
+    },
+    {
+      "Player": "W. Brodie",
+      "Team": "Fre",
+      "Owners": 1,
+      "MaxScore": 128,
+      "MinScore": 64,
+      "Benched": 0,
+      "Games": 19,
+      "Finals": 2
+    },
+    {
+      "Player": "W. Day",
+      "Team": "Haw",
+      "Owners": 2,
+      "MaxScore": 91,
+      "MinScore": 33,
+      "Benched": 4,
+      "Games": 5,
+      "Finals": 0
+    },
+    {
+      "Player": "W. Drew",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 52,
+      "MinScore": 52,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "W. Powell",
+      "Team": "GC",
+      "Owners": 1,
+      "MaxScore": 55,
+      "MinScore": 55,
+      "Benched": 1,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "W. Rioli",
+      "Team": "WCE",
+      "Owners": 1,
+      "MaxScore": 70,
+      "MinScore": 70,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "W. Snelling",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 31,
+      "MinScore": 31,
+      "Benched": 0,
+      "Games": 1,
+      "Finals": 0
+    },
+    {
+      "Player": "Z. Bailey",
+      "Team": "Bris",
+      "Owners": 3,
+      "MaxScore": 98,
+      "MinScore": 35,
+      "Benched": 8,
+      "Games": 15,
+      "Finals": 1
+    },
+    {
+      "Player": "Z. Butters",
+      "Team": "Port",
+      "Owners": 1,
+      "MaxScore": 137,
+      "MinScore": 34,
+      "Benched": 0,
+      "Games": 15,
+      "Finals": 0
+    },
+    {
+      "Player": "Z. Fisher",
+      "Team": "Car",
+      "Owners": 3,
+      "MaxScore": 67,
+      "MinScore": 51,
+      "Benched": 1,
+      "Games": 3,
+      "Finals": 1
+    },
+    {
+      "Player": "Z. Jones",
+      "Team": "StK",
+      "Owners": 1,
+      "MaxScore": 98,
+      "MinScore": 66,
+      "Benched": 4,
+      "Games": 4,
+      "Finals": 0
+    },
+    {
+      "Player": "Z. Merrett",
+      "Team": "Ess",
+      "Owners": 1,
+      "MaxScore": 172,
+      "MinScore": 51,
+      "Benched": 0,
+      "Games": 14,
+      "Finals": 0
+    },
+    {
+      "Player": "Z. Tuohy",
+      "Team": "Geel",
+      "Owners": 1,
+      "MaxScore": 125,
+      "MinScore": 50,
+      "Benched": 11,
+      "Games": 17,
+      "Finals": 1
+    },
+    {
+      "Player": "Z. Williams",
+      "Team": "Car",
+      "Owners": 1,
+      "MaxScore": 137,
+      "MinScore": 4,
+      "Benched": 3,
+      "Games": 6,
+      "Finals": 0
+    }
+  ]
+  
